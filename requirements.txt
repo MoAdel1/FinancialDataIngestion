@@ -1,0 +1,4 @@
+oandapyV20==0.6.3
+pandas==1.0.5
+numpy==1.19.0
+databricks-cli==0.11.0
