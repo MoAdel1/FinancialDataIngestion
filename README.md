@@ -1,5 +1,5 @@
 # DataIngestion
-This repo contains Databircks based integration jobs that fetches and store Forex data in a structured way from the Oanda V20 open source API.
+This repo contains Databricks based integration jobs that fetches and store Forex data in a structured way from the Oanda V20 open source API.
 
 Timeframes stored:
 - M1 
